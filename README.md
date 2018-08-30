@@ -1,4 +1,4 @@
-# Lab3-Expressions
+# Lab2-Expressions
 ## Purpose
 To become familiar with the use of stacks as data structures.
 
@@ -27,13 +27,17 @@ Extend the ExpressionManagerInterface.h.
 * Evaluate the given postfix expression
 * Handle attempts to divide by 0
 
-### File 3 - Postfix to Infix Conversion (30 points)
+### File 3 - Postfix to Infix Conversion (20 points)
 * Determine if the given postfix expression is syntactically valid
 * Convert the postfix expression into an infix expression
 
-### File 4 - Infix to Postfix Conversion (30 points)
+### File 4 - Infix to Postfix Conversion (20 points)
 * Determine if the given infix expression is syntactically valid
 * Convert the infix expression into a postfix expression
+
+### File 5 - Error Handling (20 points)
+* Return "invalid" when there is a syntax error
+* Tests postfixEvaluate, postfixToInfix, and infixToPostfix error handling
 
 ## Requirement Notes
 * You are required to create a seperate '.cpp' and '.h' for each class you implement for this lab.

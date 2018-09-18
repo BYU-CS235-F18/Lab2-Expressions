@@ -47,5 +47,5 @@ Extend the ExpressionManagerInterface.h.
 * {,},(,),[, and ] are the only symbols considered for the Balanced Symbols Check
 * You can assume there will be a space between every number or operator
 * You must put parenthesis '()' around every part of the expression during the postfix to infix conversion. i.e. "4 2 5 + *" = "( 4 * ( 2 + 5 ) )"
-* You must use the stack class pre-defined in the C++ Standard Template Library (STL). i.e. #include <stack>
+* You must use the stack class pre-defined in the C++ Standard Template Library (STL). i.e. #include &lt;stack&rt;
 * You can use the examples in this git repository 
